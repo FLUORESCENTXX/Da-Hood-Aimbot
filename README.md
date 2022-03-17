@@ -9,10 +9,16 @@ A ahk script aimbot for Da Hood (locks on to head) it also sometimes might go ra
 Please note that this is also undetected and **may** get you a ban if you use it too blatantly you could get a ban from Da Hood. Also please read how to use this before ask me on how it works cuz some 9 year olds keep asking for blox game hacks and don't know how to use it
 
 
+# Preview
+
 ![One](https://user-images.githubusercontent.com/95067718/158750982-f8873475-818b-491c-a858-4998db8ca5dc.jpg)
 
 
 https://user-images.githubusercontent.com/95067718/158753966-3d7d8990-1f95-45af-8d8f-219367e85a09.mp4
 
 
-# Preview
+
+https://user-images.githubusercontent.com/95067718/158754772-b0b3465c-20d6-4963-9116-6b505a2d21e1.mp4
+
+
+# HowItWorks
