@@ -28,5 +28,10 @@ So basically just install autohotkey from the website and make sure to install a
 
 ![image](https://user-images.githubusercontent.com/95067718/158755290-7c1f3583-d7e6-4fb8-abdd-b08c34043af1.png)
 
+Download AHK : https://www.autohotkey.com
 
-https://www.autohotkey.com
+
+# Download
+
+Download here : https://bit.ly/DaHoodAimbot
+Also make sure to close out any ads
