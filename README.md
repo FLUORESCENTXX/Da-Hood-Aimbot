@@ -23,3 +23,10 @@ https://user-images.githubusercontent.com/95067718/158754772-b0b3465c-20d6-4963-
 This also messed up randomly it also just randomly goes round and round
 
 # HowItWorks
+So basically just install autohotkey from the website and make sure to install all the components as it is x64, then run the file from the download button below and open it with ahk show here. Then once it runs you should see a green AHK if u press the arrow on the bottom right of your pc and it will show a AHK symbol that is green. Then it means it is running. Have fun!
+
+
+![image](https://user-images.githubusercontent.com/95067718/158755290-7c1f3583-d7e6-4fb8-abdd-b08c34043af1.png)
+
+
+https://www.autohotkey.com
