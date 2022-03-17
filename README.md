@@ -16,9 +16,10 @@ Please note that this is also undetected and **may** get you a ban if you use it
 
 https://user-images.githubusercontent.com/95067718/158753966-3d7d8990-1f95-45af-8d8f-219367e85a09.mp4
 
-
+(Basically just locks on to the pixels of a character in Da Hood and shoots :D)
 
 https://user-images.githubusercontent.com/95067718/158754772-b0b3465c-20d6-4963-9116-6b505a2d21e1.mp4
 
+This also messed up randomly it also just randomly goes round and round
 
 # HowItWorks
